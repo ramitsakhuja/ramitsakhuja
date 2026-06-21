@@ -8,7 +8,8 @@
 <!--                    ANIMATED BANNER                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ramit%20Sakhuja&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Analytics%20%26%20Visualization%20%E2%80%A2%20Business%20Insights&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Ramit+Sakhuja&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data+Analyst+%E2%80%A2+Analytics+%26+Visualization+%E2%80%A2+Business+Insights&amp;descAlignY=58&amp;descSize=18&amp;descColor=ffffff" width="100%" />
+
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                   TYPING ANIMATION                     -->
