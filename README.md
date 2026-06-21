@@ -8,7 +8,7 @@
 <!--                    ANIMATED BANNER                     -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=200&amp;section=header&amp;text=Ramit+Sakhuja&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data+Analyst+%E2%80%A2+Analytics+%26+Visualization+%E2%80%A2+Business+Insights&amp;descAlignY=58&amp;descSize=18&amp;descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ramit+Sakhuja&fontSize=70&fontColor=fff&fontAlignY=38&desc=Data+Analyst+%7C+Analytics+%7C+Visualization+%7C+Business+Insights&descAlignY=58&descSize=18" width="100%" />
 
 
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -16,7 +16,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E96F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Turning+Raw+Data+into+Business+Decisions+%F0%9F%93%8A;Building+Dashboards+That+Tell+Stories+%F0%9F%96%A5%EF%B8%8F;Analytics+%E2%80%A2+Visualization+%E2%80%A2+Business+Insights+%E2%9C%A8;B.Tech+CSE+%40+G.L.+Bajaj+%7C+Aspiring+Data+Analyst+%F0%9F%9A%80;From+Data+Chaos+to+Clarity+%E2%80%94+One+Query+at+a+Time+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E96F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Turning+Raw+Data+into+Business+Decisions+%F0%9F%93%8A;Building+Dashboards+That+Tell+Stories+%F0%9F%96%A5%EF%B8%8F;Analytics+%E2%80%A2+Visualization+%E2%80%A2+Business+Insights+%E2%9C%A8;B.Tech+CSE(AIML)+%40+G.L.+Bajaj+%7C+Aspiring+Data+Analyst+%F0%9F%9A%80;From+Data+Chaos+to+Clarity+%E2%80%94+One+Query+at+a+Time+%F0%9F%94%8D" alt="Typing SVG" />
 </a>
 
 <br/>
