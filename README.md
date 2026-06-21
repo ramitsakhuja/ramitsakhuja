@@ -16,7 +16,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E96F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Turning+Raw+Data+into+Business+Decisions+%F0%9F%93%8A;Building+Dashboards+That+Tell+Stories+%F0%9F%96%A5%EF%B8%8F;Analytics+%E2%80%A2+Visualization+%E2%80%A2+Business+Insights+%E2%9C%A8; B.Tech+CSE(AIML)+%40+G.L.+Bajaj+%7C+Aspiring+Data+Analyst+%F0%9F%9A%80;From+Data+Chaos+to+Clarity+%E2%80%94+One+Query+at+a+Time+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E96F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Turning+Raw+Data+into+Business+Decisions+%F0%9F%93%8A;Building+Dashboards+That+Tell+Stories+%F0%9F%96%A5%EF%B8%8F;Analytics+%E2%80%A2+Visualization+%E2%80%A2+Business+Insights+%E2%9C%A8;B.Tech+CSE+(AI%26ML)+%40+G.L.+Bajaj+%7C+Aspiring+Data+Analyst+%F0%9F%9A%80;From+Data+Chaos+to+Clarity+%E2%80%94+One+Query+at+a+Time+%F0%9F%94%8D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@
 
 ### 🧠 &nbsp;The Human Behind the Data
 
-Hey there! I'm **Ramit Sakhuja** — a **B.Tech CSE** student at **G.L. Bajaj Institute of Technology and Management, Greater Noida**, on a mission to become a world-class **Data Analyst**. I live at the intersection of SQL, Python, and visual storytelling, building data products that don't just answer questions — they spark better ones.
+Hey there! I'm **Ramit Sakhuja** — a **B.Tech CSE (AI & ML)** student at **G.L. Bajaj Institute of Technology and Management, Greater Noida**, on a mission to become a world-class **Data Analyst**. I live at the intersection of SQL, Python, and visual storytelling, building data products that don't just answer questions — they spark better ones.
 
 I believe dashboards should be as beautiful as they are insightful, and that the best analysis is one that a non-technical stakeholder can understand in 30 seconds flat.
 
