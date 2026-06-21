@@ -170,47 +170,6 @@ flowchart LR
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                              FUN FACTS                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚡ &nbsp;Fun Facts About Me
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```yaml
-ramit_sakhuja:
-  personality:
-    - "I genuinely get excited when a SQL query optimizes itself 🚀"
-    - "I've debugged dashboards at 2AM and called it 'fun' 🌙"
-    - "My Excel sheets have better design than most presentations 📊"
-    - "I see KPIs in everyday situations (gym progress? That's a time-series) 💪"
-    - "I once spent 4 hours making a Power BI report 'perfect' for a 2-minute meeting"
-
-  unpopular_opinions:
-    - "Excel is underrated. Fight me."
-    - "A beautiful dashboard is worth 1,000 data points"
-    - "The best model is the one stakeholders can understand"
-
-  currently_listening_to: "Lo-fi beats while writing SQL 🎧"
-  coffee_consumed_today: "Enough to power a Jupyter kernel ☕"
-  tabs_open_right_now: "Way too many Stack Overflow queries 📖"
-```
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                          CODING QUOTE                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -225,46 +184,3 @@ ramit_sakhuja:
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                           CONNECT WITH ME                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🤝 &nbsp;Let's Connect
-
-*Open to internships, collaborations, data conversations, and everything in between.*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/ramit-sakhuja/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:ramit.sakhuja1234@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-6E96F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://drive.google.com/file/d/1eifmrwsH2NUFQL8GetAigGUiPWtEuJ9j/view?usp=drive_link">
-  <img src="https://img.shields.io/badge/Resume-34D399?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
-
-</div>
