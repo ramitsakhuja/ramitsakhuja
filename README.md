@@ -247,7 +247,7 @@ ramit_sakhuja:
 
 <br/>
 
-<a href="https://linkedin.com/in/ramitsakhuja">
+<a href="https://www.linkedin.com/in/ramit-sakhuja/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -259,7 +259,7 @@ ramit_sakhuja:
   <img src="https://img.shields.io/badge/Portfolio-6E96F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="https://drive.google.com/file/d/1eifmrwsH2NUFQL8GetAigGUiPWtEuJ9j/view?usp=drive_link">
   <img src="https://img.shields.io/badge/Resume-34D399?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
