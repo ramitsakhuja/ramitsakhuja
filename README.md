@@ -3,6 +3,7 @@
 <!-- ████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ramit%20Sakhuja&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Analytics%20%26%20Visualization%20%E2%80%A2%20Business%20Insights&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                    ANIMATED BANNER                     -->
